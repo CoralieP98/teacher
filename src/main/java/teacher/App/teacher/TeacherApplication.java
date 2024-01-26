@@ -10,4 +10,6 @@ public class TeacherApplication {
 		SpringApplication.run(TeacherApplication.class, args);
 	}
 
+	int i=2;
+
 }
